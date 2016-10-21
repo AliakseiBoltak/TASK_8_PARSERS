@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class xmlns="www.epam.tc.task.xml.by">
+	<student ID="1">
+		<firstname>Alex</firstname>
+		<lastname>Smith</lastname>
+		<averageMark>85</averageMark>
+	</student>
+	<student ID="2">
+		<firstname>James</firstname>
+		<lastname>Watkins</lastname>
+		<averageMark>95</averageMark>
+	</student>
+	<student ID="3">
+		<firstname>Tommy</firstname>
+		<lastname>Good</lastname>
+		<averageMark>99</averageMark>
+	</student>
+</class>
+
